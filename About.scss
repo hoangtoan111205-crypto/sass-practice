@@ -1,0 +1,16 @@
+
+$accent-color: #16a34a;
+
+.about {
+  padding: 25px;
+  border-left: 5px solid $accent-color;
+  background-color: #f0fdf4;
+
+  h2 {
+    color: $accent-color;
+  }
+
+  p {
+    line-height: 1.8;
+  }
+}
